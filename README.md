@@ -7,7 +7,7 @@ Features:
 <ul>
   <li>Add items to list</li>
   <li>Remove item from list</li>
-  <li>Change font colour</li>
+  <li>Change system font colour</li>
 </ul>
 
 ## 
