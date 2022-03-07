@@ -1,12 +1,12 @@
 # ios-shopping-cart
 
-A simlpe shopping list iOS application using SQLite to store data locally in the backend.
+A simlpe shopping list application developed in Swift with SQLite to store and access data locally. 
 <br><br>
 
 Features:
 <ul>
   <li>Add items to list</li>
-  <li>Remove item from list</li>
+  <li>Remove items from list</li>
   <li>Change system font colour</li>
 </ul>
 
